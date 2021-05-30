@@ -1,40 +1,26 @@
 {
-    "title": "This is the title of the project",
+    "title": "Automated Fishing Bot",
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "MEDAWATTE R.C.",
+            "email": "e14222@eng.pdn.ac.lk",
+            "eNumber": "E/14/222"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "SENANAYAKE S.M.A.J.",
+            "email": "e14317@eng.pdn.ac.lk",
+            "eNumber": "E/14/317"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "WIJEKOON D.W.M.M.P.",
+            "email": "e14390@eng.pdn.ac.lk",
+            "eNumber": "E/14/390"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
-        },
-        {
-            "name": "Supervisor 2",
-            "email": "email@eng.pdn.ac.lk",
-            "linkedin_profile":"#",
-            "researchgate_profile":"#"
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk"
         }
     ],
     "tags": ["Web", "Embedded Systems"]
