@@ -1,57 +1,58 @@
-___
-# DELETE THIS INSTRUCTIONS AND ADD AN INTRODUCTION ABOUT YOUR PROJECT
-___
+---
+layout: home
+permalink: index.html
+repository-name: e14-3yp-Automated-Fishing-Bot
+title: Automated Fishing Bot
+---
 
-# eYY-3yp-project-template
 
-This is a sample repository you can use for your Embedded Systems project. Once you followed these instructions, remove the text and add a brief introduction to here.
+# Automated Fishing Bot
 
-### Enable GitHub Pages
+---
 
-You can put the things to be shown in GitHub pages into the _docs/_ folder. Both html and md file formats are supported. You need to go to settings and enable GitHub pages and select _main_ branch and _docs_ folder from the dropdowns, as shown in the below image.
+## Team
+-  E/14/222, MEDAWATTE R.C., [e14222@eng.pdn.ac.lk](mailto:e14222@eng.pdn.ac.lk)
+-  E/14/317, SENANAYAKE S.M.A.J., [e14317@eng.pdn.ac.lk](mailto:e14317@eng.pdn.ac.lk)
+-  E/14/390, WIJEKOON D.W.M.M.P., [e14390@eng.pdn.ac.lk](mailto:e14390@eng.pdn.ac.lk)
 
-![image](https://user-images.githubusercontent.com/11540782/98789936-028d3600-2429-11eb-84be-aaba665fdc75.png)
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Solution Architecture](#solution-architecture )
+3. [Hardware & Software Designs](#hardware-and-software-designs)
+4. [Links](#links)
 
-### Special Configurations
+---
 
-These projects will be automatically added into [https://projects.ce.pdn.ac.lk](). If you like to show more details about your project on this site, you can fill the parameters in the file, _/docs/index.json_
+## Introduction
 
-```
-{
-  "title": "This is the title of the project",
-  "team": [
-    {
-      "name": "Team Member Name 1",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 2",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    },
-    {
-      "name": "Team Member Name 3",
-      "email": "email@eng.pdn.ac.lk",
-      "eNumber": "E/yy/xxx"
-    }
-  ],
-  "supervisors": [
-    {
-      "name": "Dr. Supervisor 1",
-      "email": "email@eng.pdn.ac.lk"
-    },
-    {
-      "name": "Supervisor 2",
-      "email": "email@eng.pdn.ac.lk"
-    }
-  ],
-  "tags": ["Web", "Embedded Systems"]
-}
-```
+Fishery Industry has not always been friendly to fishermen. Identifying high density fishing areas, reaching there and spending hours to find and capture fish is just too much for a human being. Therefore, we are going to introduce a fishing bot. This bot will be able to handle above said difficulties and will help fishermen to expand fishing areas and monitor fishing information gathered which will eventually help the industry. 
 
-Once you filled this _index.json_ file, please verify the syntax is correct. (You can use [this](https://jsonlint.com/) tool).
 
-### Page Theme
+## Solution Architecture
 
-A custom theme integrated with this GitHub Page, which is based on [github.com/cepdnaclk/eYY-project-theme](https://github.com/cepdnaclk/eYY-project-theme). If you like to remove this default theme, you can remove the file, _docs/\_config.yml_ and use HTML based website.
+![image](https://user-images.githubusercontent.com/73756777/120118405-02c80580-c1b0-11eb-8101-d279033c526e.png)
+
+## Hardware and Software Designs
+
+1. Hardware : includes Bots, Relay nodes and the Central Server
+
+2. Software : includes the website, Database, and a local interface for the relay node
+
+![image](https://user-images.githubusercontent.com/73756777/120118462-44f14700-c1b0-11eb-8227-8aa35d265cf1.png)
+![image](https://user-images.githubusercontent.com/73756777/120118468-49b5fb00-c1b0-11eb-98e9-1c0bffacef20.png)
+![image](https://user-images.githubusercontent.com/73756777/120118473-52a6cc80-c1b0-11eb-85d4-a140f885778a.png)
+![image](https://user-images.githubusercontent.com/73756777/120118469-4c185500-c1b0-11eb-8d86-2d2c2f94f484.png)
+![image](https://user-images.githubusercontent.com/73756777/120118515-96013b00-c1b0-11eb-8d9a-b660a53be8cb.png)
+![image](https://user-images.githubusercontent.com/73756777/120118609-10ca5600-c1b1-11eb-91bb-ec3704fd1964.png)
+
+## Links
+
+- <a href = "https://github.com/cepdnaclk/e14-3yp-Automated-Fishing-Bot" target = "_blank"> Project Repository </a>
+- <a href = "https://cepdnaclk.github.io/e14-3yp-Automated-Fishing-Bot/" target = "_blank">Project Page</a>
+- <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
+- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+
+
+
+[//]: # (Please refer this to learn more about Markdown syntax)
+[//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
