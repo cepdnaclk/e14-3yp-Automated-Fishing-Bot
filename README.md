@@ -11,9 +11,9 @@ title: Automated Fishing Bot
 ---
 
 ## Team
--  E/14/222, MEDAWATTE R.C., [e14222@eng.pdn.ac.lk](mailto:e14222@eng.pdn.ac.lk)
--  E/14/317, SENANAYAKE S.M.A.J., [e14317@eng.pdn.ac.lk](mailto:e14317@eng.pdn.ac.lk)
--  E/14/390, WIJEKOON D.W.M.M.P., [e14390@eng.pdn.ac.lk](mailto:e14390@eng.pdn.ac.lk)
+-  E/14/222, MEDAWATTE R.C., [e14222@ce.pdn.ac.lk](mailto:e14222@ce.pdn.ac.lk)
+-  E/14/317, SENANAYAKE S.M.A.J., [e14317@ce.pdn.ac.lk](mailto:e14317@ce.pdn.ac.lk)
+-  E/14/390, WIJEKOON D.W.M.M.P., [e14390@ce.pdn.ac.lk](mailto:e14390@ce.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -50,7 +50,7 @@ Fishery Industry has not always been friendly to fishermen. Identifying high den
 - <a href = "https://github.com/cepdnaclk/e14-3yp-Automated-Fishing-Bot" target = "_blank"> Project Repository </a>
 - <a href = "https://cepdnaclk.github.io/e14-3yp-Automated-Fishing-Bot/" target = "_blank">Project Page</a>
 - <a href = "http://www.ce.pdn.ac.lk/" target = "_blank">Department of Computer Engineering</a>
-- <a href = "https://eng.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
+- <a href = "https://ce.pdn.ac.lk/" target = "_blank">University of Peradeniya</a>
 
 
 

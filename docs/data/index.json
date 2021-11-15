@@ -3,24 +3,24 @@
     "team": [
         {
             "name": "MEDAWATTE R.C.",
-            "email": "e14222@eng.pdn.ac.lk",
+            "email": "e14222@ce.pdn.ac.lk",
             "eNumber": "E/14/222"
         },
         {
             "name": "SENANAYAKE S.M.A.J.",
-            "email": "e14317@eng.pdn.ac.lk",
+            "email": "e14317@ce.pdn.ac.lk",
             "eNumber": "E/14/317"
         },
         {
             "name": "WIJEKOON D.W.M.M.P.",
-            "email": "e14390@eng.pdn.ac.lk",
+            "email": "e14390@ce.pdn.ac.lk",
             "eNumber": "E/14/390"
         }
     ],
     "supervisors": [
         {
             "name": "Dr. Isuru Nawinne",
-            "email": "isurunawinne@eng.pdn.ac.lk"
+            "email": "isurunawinne@ce.pdn.ac.lk"
         }
     ],
     "tags": ["Web", "Embedded Systems"]
